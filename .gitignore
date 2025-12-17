@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Environment - SANGAT PENTING!
+.env
+.env.local
+*.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database files (jika menggunakan SQLite)
+*.db
+*.sqlite
+
+# Uploads
+uploads/
+temp/
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
